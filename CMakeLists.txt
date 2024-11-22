@@ -4,4 +4,4 @@ project(DNSCache)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(DNSCache main.cpp)
+add_executable(dnscache dnscache.cpp)
